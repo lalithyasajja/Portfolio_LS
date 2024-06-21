@@ -28,7 +28,6 @@ class Projects extends React.Component {
           "Developed a full-stack e-commerce website using Django for the backend, HTML, CSS, and JavaScript for the frontend, and SQLite for the database, showcasing a comprehensive application of web development skills, including user authentication, product management, shopping cart functionality, and search functionality.",
         techStack: "Python, Javascript, HTML/CSS",
         link: "https://github.com/lalithyasajja/Online_bookstore",
-        // open: "https://gazijarin.itch.io/no-mans-land",   //UPDATE
         image: "/assets/online-bookstore-shelves.png"
       },
       "Airport Management System": {
@@ -36,8 +35,6 @@ class Projects extends React.Component {
         desc:
           "Built an interactive web-based application using NodeJS for backend and ReactJS for frontend and MySQL, to view the data with the help of pagination to display huge data. Strategically engineered the database by comparing UML Class Diagrams, 3NF/BCNF Normalization techniques.",
         techStack: "NodeJS, ReactJS, MySQL",
-        // link: "https://github.com/gazijarin/truth",
-        // open: "https://gazijarin.github.io/Truth/",
         image: "/assets/airport-2.png"
       },
       "Text to SQL generator": {
@@ -45,8 +42,6 @@ class Projects extends React.Component {
         desc:
           "Developed a Text to SQL chatbot leveraging advanced natural language processing (NLP) techniques to translate user queries into SQL commands. Utilized Langchain for NLP workflow and Large Language Models (LLMs). Deployed an interactive and user-friendly web interface using streamlit, ensuring seamless user interaction and efficient query processing. Applied advanced Prompt Engineering, Chain of Thought, and Zero-shot Learning techniques to improve the chatbot's interpretative capabilities.",
         techStack: "LangChain, Streamlit, Python",
-        // link: "https://github.com/gazijarin/TallTales",
-        // open: "https://talltales.herokuapp.com/",
         image: "/assets/text2sql.png"
       },
       "House Price Predictions": {
@@ -55,7 +50,6 @@ class Projects extends React.Component {
           "Led comprehensive Exploratory Data Analysis (EDA) to unveil patterns and outliers on 79 feature variables.Performed meticulous data preprocessing to handle missing values, categorical variables by employing data imputation, normalization, and one-hot encoding, ensuring an optimized dataset for advanced regression analysis using NumPy and Pandas.",
         techStack: "Python, Numpy, Pandas",
         link: "https://github.com/lalithyasajja/House-Price-Prediction---Kaggle",
-        // open: "https://afternoon-ocean-92382.herokuapp.com/",
         image: "/assets/house.png"
       }
     };
@@ -65,21 +59,16 @@ class Projects extends React.Component {
           "Developed a full-stack e-commerce website using Django for the backend, HTML, CSS, and JavaScript for the frontend, and SQLite for the database, showcasing a comprehensive application of web development skills, including user authentication, product management, shopping cart functionality, and search functionality.",
         techStack: "Python, Javascript, HTML/CSS",
         link: "https://github.com/lalithyasajja/Online_bookstore",
-        // open: "https://tdsb-app.herokuapp.com/"
       },
       "Airport Management System": {
         desc:
           "Built an interactive web-based application using NodeJS for backend and ReactJS for frontend and MySQL, to view the data with the help of pagination to display huge data. Strategically engineered the database by comparing UML Class Diagrams, 3NF/BCNF Normalization techniques.",
         techStack: "NodeJS, ReactJS, MySQL",
-        // link: "https://github.com/gazijarin/adamai",
-        // open: "https://gazijarin.github.io/AdamAI/"
       },
       "Text to SQL generator": {
         desc:
           "Developed a Text to SQL chatbot leveraging advanced natural language processing (NLP) techniques to translate user queries into SQL commands. Utilized Langchain for NLP workflow and Large Language Models (LLMs).",
         techStack: "LangChain, Streamlit, Python",
-        // link:
-        //   "https://github.com/gazijarin/Distributed-Logging-and-Monitoring-System"
       },
       "House Price Predictions": {
         desc:
