@@ -82,22 +82,23 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    "University of Georgia": {
-      jobTitle: "Research Assistant @",
+    "Devpoint": {
+      jobTitle: "Software Engineer @",
+      duration: "Sept 2018 - NOV 2022",
+      desc: [
+        "Led development of Python/Django Web API, ensuring seamless connectivity.",
+        "Developed JavaScript/NodeJS interfaces, Streamlined React JS/Redux components, reducing code by 30% and enhancing maintainability.",
+        "Implemented A/B testing, and optimized SQL queries for data-driven insights, enhancing overall project efficiency and compliance."
+      ]
+      ]
+    },
+    UGA : {
+      jobTitle: "Scalation Project @",
       duration: "AUG 2023 - MAY 2024",
       desc: [
         "Played a key role in the development of the Scalation project, a comprehensive framework for large-scale analytics, simulation, and optimization, by implementing various models to improve the framework’s capabilities in handling complex analytics tasks.",
         "Enhanced Regression Trees to facilitate optimal data splitting at greater depths, implemented the feature bagging technique in Random Forest, and developed gradient boosting algorithm using Scala.",
         "Conducted comparative assessments against scikit-learn’s libraries, achieving a correlation of over 99%."
-      ]
-    },
-    Devpoint: {
-      jobTitle: "Software Engineer @",
-      duration: "SEPT 2018 - NOV 2022",
-      desc: [
-        "Led development of Python/Django Web API, ensuring seamless connectivity.",
-        "Streamlined React JS/Redux components, reducing code by 30% and enhancing maintainability.",
-        "Implemented A/B testing, developed JavaScript/NodeJS interfaces, and optimized SQL queries for data-driven insights, enhancing overall project efficiency and compliance."
       ]
     },
   };
