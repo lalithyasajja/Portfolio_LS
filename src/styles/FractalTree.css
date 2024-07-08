@@ -5,8 +5,8 @@
 }
 
 .circle {
-  height: 125px;
-  width: 125px;
+  height: 100px;
+  width: 100px;
   border-radius: 50%;
   position: absolute;
   mix-blend-mode: screen;
