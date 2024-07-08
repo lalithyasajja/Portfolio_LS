@@ -84,12 +84,11 @@ const JobList = () => {
   const experienceItems = {
     "Devpoint": {
       jobTitle: "Software Engineer @",
-      duration: "Sept 2018 - NOV 2022",
+      duration: "SEPT 2018 - NOV 2022",
       desc: [
         "Led development of Python/Django Web API, ensuring seamless connectivity.",
         "Developed JavaScript/NodeJS interfaces, Streamlined React JS/Redux components, reducing code by 30% and enhancing maintainability.",
         "Implemented A/B testing, and optimized SQL queries for data-driven insights, enhancing overall project efficiency and compliance."
-      ]
       ]
     },
     UGA : {
