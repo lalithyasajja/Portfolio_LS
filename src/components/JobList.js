@@ -83,12 +83,12 @@ const JobList = () => {
 
   const experienceItems = {
     "Devpoint": {
-      jobTitle: "Software Engineer @",
+      jobTitle: "Data Analyst @",
       duration: "SEPT 2018 - NOV 2022",
       desc: [
-        "Led development of Python/Django Web API, ensuring seamless connectivity.",
-        "Developed JavaScript/NodeJS interfaces, Streamlined React JS/Redux components, reducing code by 30% and enhancing maintainability.",
-        "Implemented A/B testing, and optimized SQL queries for data-driven insights, enhancing overall project efficiency and compliance."
+        "Leveraged Power BI and SQL to create interactive dashboards and data visualizations, improving data accessibility by 80% and enabling actionable insights for business growth.",
+        "Developed APIs utilizing advanced regression analysis, driving a 30% increase in sales by implementing personalized product recommendations for an e-commerce platform.",
+        "Employed NLP techniques and machine learning algorithms to enhance product classification accuracy from 60% to 95%, while implementing A/B testing and data-driven strategies to optimize user experience and conversion rates."
       ]
     },
     UGA : {
