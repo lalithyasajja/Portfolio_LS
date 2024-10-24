@@ -24,7 +24,7 @@ class About extends React.Component {
     );
     const two = (
       <p>
-        Driven by passion for innovation, I aspire to blend my academic knowledge and practical experience to make significant contributions in and Data Analytics.
+        Driven by passion for innovation, I aspire to blend my academic knowledge and practical experience to make significant contributions in Data Analytics.
       </p>
     );
 
