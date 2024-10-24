@@ -35,7 +35,7 @@ class Intro extends React.Component {
         </Typist>
         <FadeInSection>
           <div className="intro-desc">
-          I’m a Software Engineer with 4+ years of hands-on experience in building robust business applications and products. My expertise lies in designing and developing web applications, conducting exploratory data analysis, and implementing advanced machine learning algorithms for predictive modeling.
+          I’m a Data Analyst with 4 years of hands-on experience in building reports. My expertise lies in data analysis, statistics, visualization and implementing advanced machine learning algorithms for predictive modeling.
           </div>
           <a
             href="mailto:lalithya.sajja@uga.edu"
