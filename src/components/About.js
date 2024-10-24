@@ -19,26 +19,22 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am <b>Lalithya Sajja</b>, currently pursuing a Master’s in Computer Science at the <b>University of Georgia, Athens</b> with a specialization in Data Science. Previously, I worked as a <b>Software Engineer</b> at Devpoint Solutions Pvt Ltd, where I gained valuable experience developing web applications, refining my skills in addressing complex technological challenges.
+        I recently completed my master’s in computer science from the University of Georgia, where I deepened my knowledge of advanced data science techniques, and machine learning algorithms. During my time at UGA, I worked on various projects involving predictive analytics. Previously, I worked as a Data Analyst at Devpoint Solutions Pvt Ltd, where I gained valuable experience in delivering valuable insights to drive business growth.
       </p>
     );
     const two = (
       <p>
-        Driven by passion for innovation, I aspire to blend my academic knowledge and practical experience to make significant contributions in Web Development and Data science.
+        Driven by passion for innovation, I aspire to blend my academic knowledge and practical experience to make significant contributions in and Data Analytics.
       </p>
     );
 
     const tech_stack = [
       "Python",
-      "Javascript",
-      "HTML/CSS",
+      "R",
       "SQL",
-      "ReactJS",
-      "NodeJS",
-      "AngularJS",
-      "Django",
-      "AWS",
-      "Github",
+      "Scala",
+      "PowerBI",
+      "Javascript",
     ];
 
     return (
